@@ -12,6 +12,15 @@
     <itunes:category text="History"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-
+    <item>
+      <title>How the enemy reads a soldier: a 1942 Army training film</title>
+      <description>Combat Counterintelligence is a 1942 U.S. War Department training film. This episode follows the whole arc of its argument: how an enemy gathers information from photographs, tracks, letters, careless talk and the things a soldier carries, and the discipline the film asks for. Several scenes are acted, and the narration says so. The narration voice is synthetic; the archival film is unaltered. Source: U.S. War Department, Signal Corps, Official Training Film 11-321, public domain.</description>
+      <enclosure url="https://moranmatan.github.io/liber-copia-podcast/audio/ctr-longform.mp3" length="5238631" type="audio/mpeg"/>
+      <guid isPermaLink="false">libercopia-4f66e26a2c1c116c</guid>
+      <pubDate>Tue, 13 Oct 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>436</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
