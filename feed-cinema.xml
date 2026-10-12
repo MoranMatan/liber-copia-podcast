@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>The Darker Reel: Cinema of the Underground</title>
+    <link>https://moranmatan.github.io/liber-copia-podcast/</link>
+    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://moranmatan.github.io/liber-copia-podcast/feed-cinema.xml" rel="self" type="application/rss+xml"/>
+    <language>en</language>
+    <description>The darker side of the twentieth century as the government's own films told it: prejudice and persecution, propaganda, fear, crime and the machinery of control. Public-domain film, narrated against its own words. The narration voice is synthetic.</description>
+    <itunes:author>Cinema of the Underground</itunes:author>
+    <itunes:owner><itunes:name>Cinema of the Underground</itunes:name><itunes:email>moran@printenberg.com</itunes:email></itunes:owner>
+    <itunes:image href="https://moranmatan.github.io/liber-copia-podcast/cover-cinema.jpg"/>
+    <itunes:category text="History"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+
+  </channel>
+</rss>
