@@ -3,6 +3,7 @@
   <channel>
     <title>Liber Copia: Restored Government Film, Narrated</title>
     <link>https://moranmatan.github.io/liber-copia-podcast/</link>
+    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://moranmatan.github.io/liber-copia-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en</language>
     <description>Narrated audio from restored U.S. government archival film: training films, wartime reports and official histories, read against the film's own words. Public-domain sources. The narration voice is synthetic.</description>
     <itunes:author>Liber Copia LLC</itunes:author>
