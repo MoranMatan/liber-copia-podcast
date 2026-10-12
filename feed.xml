@@ -11,6 +11,15 @@
     <itunes:category text="History"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-
+    <item>
+      <title>Target for Today: one 1944 bombing mission, start to finish</title>
+      <description>Audio of the Liber Copia video on Target for Today, a 1944 Army Air Forces film by the First Motion Picture Unit that follows one Eighth Air Force mission from the weather room to the count of planes coming home. Lines quoted from the film are read in a second voice. Narration is a synthetic voice. Public domain.</description>
+      <enclosure url="https://moranmatan.github.io/liber-copia-podcast/audio/ttd-longform.mp3" length="4927671" type="audio/mpeg"/>
+      <guid isPermaLink="false">libercopia-1f424f43f0f8fb4e</guid>
+      <pubDate>Mon, 12 Oct 2026 21:00:00 +0000</pubDate>
+      <itunes:duration>411</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
