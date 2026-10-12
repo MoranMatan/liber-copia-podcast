@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Behind the Battle: Intelligence, Deception &amp; SOF</title>
+    <link>https://moranmatan.github.io/liber-copia-podcast/</link>
+    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://moranmatan.github.io/liber-copia-podcast/feed-behind-the-battle.xml" rel="self" type="application/rss+xml"/>
+    <language>en</language>
+    <description>Espionage, counterintelligence, psychological warfare and special operations, told from the official films and records of the services themselves. Public-domain sources. The narration voice is synthetic.</description>
+    <itunes:author>Behind the Battle</itunes:author>
+    <itunes:owner><itunes:name>Behind the Battle</itunes:name><itunes:email>moran@printenberg.com</itunes:email></itunes:owner>
+    <itunes:image href="https://moranmatan.github.io/liber-copia-podcast/cover-behind-the-battle.jpg"/>
+    <itunes:category text="History"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+
+  </channel>
+</rss>
