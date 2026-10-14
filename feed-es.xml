@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Podcast de historia militar: la Segunda Guerra Mundial en las películas del gobierno de EE. UU.</title>
+    <link>https://moranmatan.github.io/liber-copia-podcast/</link>
+    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://moranmatan.github.io/liber-copia-podcast/feed-es.xml" rel="self" type="application/rss+xml"/>
+    <language>es</language>
+    <description>Historia militar a partir de las películas originales. Cada episodio narra una película restaurada del gobierno de Estados Unidos (informes de misión de las Fuerzas Aéreas del Ejército, películas de instrucción de la Armada y del Ejército, películas de orientación del Departamento de Guerra) siguiendo las palabras de la propia película, con las citas leídas por una segunda voz y traducidas del inglés. Fuentes de dominio público de los Archivos Nacionales de EE. UU. La voz del narrador es sintética; la película de archivo no está alterada.</description>
+    <itunes:author>Liber Copia LLC</itunes:author>
+    <itunes:owner><itunes:name>Liber Copia LLC</itunes:name><itunes:email>moran@printenberg.com</itunes:email></itunes:owner>
+    <itunes:image href="https://moranmatan.github.io/liber-copia-podcast/cover-es.jpg"/>
+    <itunes:category text="History"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Target for Today: una misión de bombardeo de 1944, de principio a fin</title>
+      <description>Target for Today es una película de 1944 de las Fuerzas Aéreas del Ejército de EE. UU. (First Motion Picture Unit) que sigue una misión de la Octava Fuerza Aérea de principio a fin: la sala meteorológica, la planificación, los equipos de tierra, el despertar de las tres de la madrugada, el ataque y el recuento de aviones al regresar. Todo lo que se dice procede de la narración y los diálogos de la propia película; las citas están traducidas del inglés y se leen con una segunda voz. La voz del narrador es sintética; la película de archivo no está alterada. Fuente: Archivos Nacionales de EE. UU., dominio público.</description>
+      <enclosure url="https://moranmatan.github.io/liber-copia-podcast/audio/ttd-longform-es.mp3" length="4607521" type="audio/mpeg"/>
+      <guid isPermaLink="false">libercopia-c8dad5037fbe881f</guid>
+      <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>384</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
