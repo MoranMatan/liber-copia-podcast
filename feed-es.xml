@@ -13,12 +13,12 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
-      <title>Target for Today: una misión de bombardeo de 1944, de principio a fin</title>
+      <title>Target for Today: una misión de bombardeo de 1944, completa</title>
       <description>Target for Today es una película de 1944 de las Fuerzas Aéreas del Ejército de EE. UU. (First Motion Picture Unit) que sigue una misión de la Octava Fuerza Aérea de principio a fin: la sala meteorológica, la planificación, los equipos de tierra, el despertar de las tres de la madrugada, el ataque y el recuento de aviones al regresar. Todo lo que se dice procede de la narración y los diálogos de la propia película; las citas están traducidas del inglés y se leen con una segunda voz. La voz del narrador es sintética; la película de archivo no está alterada. Fuente: Archivos Nacionales de EE. UU., dominio público.</description>
-      <enclosure url="https://moranmatan.github.io/liber-copia-podcast/audio/ttd-longform-es.mp3" length="4607521" type="audio/mpeg"/>
+      <enclosure url="https://moranmatan.github.io/liber-copia-podcast/audio/ttd-longform-es.mp3" length="4596549" type="audio/mpeg"/>
       <guid isPermaLink="false">libercopia-c8dad5037fbe881f</guid>
       <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
-      <itunes:duration>384</itunes:duration>
+      <itunes:duration>383</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
