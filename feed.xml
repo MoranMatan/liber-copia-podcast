@@ -13,13 +13,25 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>U-869 and the Orders That Never Became a Route</title>
+      <description>An original audio essay on U-869, military communications, intended destinations and the limits of reconstructing a missing submarine's route.
+
+An original podcast episode from Liber Copia.</description>
+      <enclosure url="https://moranmatan.github.io/liber-copia-podcast/audio/u869-podcast-u-869-and-the-orders-that-never-beca.mp3" length="11659926" type="audio/mpeg"/>
+      <guid isPermaLink="false">libercopia-ba821153cba39e86</guid>
+      <pubDate>Tue, 10 Nov 2026 11:00:00 +0000</pubDate>
+      <itunes:duration>583</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>U-869 Evidence Memory and the Men Behind the Number</title>
       <description>An original audio essay on identification, archaeological context, archival imagery, remembrance and the ethical limits of reconstructing U-869's loss.
 
 An original podcast episode from Liber Copia.</description>
       <enclosure url="https://moranmatan.github.io/liber-copia-podcast/audio/u869-podcast-u-869-evidence-memory-and-the-men-be.mp3" length="11678651" type="audio/mpeg"/>
       <guid isPermaLink="false">libercopia-48bb09c6ca770f99</guid>
-      <pubDate>Wed, 11 Nov 2026 18:00:00 +0000</pubDate>
+      <pubDate>Tue, 10 Nov 2026 10:30:00 +0000</pubDate>
       <itunes:duration>584</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -31,20 +43,8 @@ An original podcast episode from Liber Copia.</description>
 An original podcast episode from Liber Copia.</description>
       <enclosure url="https://moranmatan.github.io/liber-copia-podcast/audio/u869-podcast-the-u-869-attack-record-and-the-conv.mp3" length="11896086" type="audio/mpeg"/>
       <guid isPermaLink="false">libercopia-9575e52bffaaad91</guid>
-      <pubDate>Wed, 11 Nov 2026 16:00:00 +0000</pubDate>
+      <pubDate>Tue, 10 Nov 2026 10:00:00 +0000</pubDate>
       <itunes:duration>595</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>U-869 and the Orders That Never Became a Route</title>
-      <description>An original audio essay on U-869, military communications, intended destinations and the limits of reconstructing a missing submarine's route.
-
-An original podcast episode from Liber Copia.</description>
-      <enclosure url="https://moranmatan.github.io/liber-copia-podcast/audio/u869-podcast-u-869-and-the-orders-that-never-beca.mp3" length="11659926" type="audio/mpeg"/>
-      <guid isPermaLink="false">libercopia-ba821153cba39e86</guid>
-      <pubDate>Wed, 11 Nov 2026 14:00:00 +0000</pubDate>
-      <itunes:duration>583</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
