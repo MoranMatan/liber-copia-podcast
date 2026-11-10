@@ -37,6 +37,18 @@ An original podcast episode from Liber Copia.</description>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
+      <title>U-869 and the Orders That Never Became a Route</title>
+      <description>An original audio essay on U-869, military communications, intended destinations and the limits of reconstructing a missing submarine's route.
+
+An original podcast episode from Liber Copia.</description>
+      <enclosure url="https://moranmatan.github.io/liber-copia-podcast/audio/u869-podcast-u-869-and-the-orders-that-never-beca.mp3" length="11659926" type="audio/mpeg"/>
+      <guid isPermaLink="false">libercopia-ba821153cba39e86</guid>
+      <pubDate>Wed, 11 Nov 2026 14:00:00 +0000</pubDate>
+      <itunes:duration>583</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Target for Today: one 1944 bombing mission, start to finish</title>
       <description>Audio of the Liber Copia video on Target for Today, a 1944 Army Air Forces film by the First Motion Picture Unit that follows one Eighth Air Force mission from the weather room to the count of planes coming home. Lines quoted from the film are read in a second voice. Narration is a synthetic voice. Public domain.</description>
       <enclosure url="https://moranmatan.github.io/liber-copia-podcast/audio/ttd-longform.mp3" length="4927671" type="audio/mpeg"/>
