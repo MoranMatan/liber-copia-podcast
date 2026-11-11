@@ -1,15 +1,5 @@
 [
  {
-  "id": "ttd_longform",
-  "title": "Target for Today: one 1944 bombing mission, start to finish",
-  "desc": "Audio of the Liber Copia video on Target for Today, a 1944 Army Air Forces film by the First Motion Picture Unit that follows one Eighth Air Force mission from the weather room to the count of planes coming home. Lines quoted from the film are read in a second voice. Narration is a synthetic voice. Public domain.",
-  "file": "ttd-longform.mp3",
-  "bytes": 4927671,
-  "seconds": 411,
-  "guid": "libercopia-1f424f43f0f8fb4e",
-  "date": "2026-10-12T21:00:00+00:00"
- },
- {
   "id": "u869_podcast_the_u_869_attack_record_and_the_conv",
   "title": "The U-869 Attack Record and the Convoy Mission",
   "desc": "An original audio examination of convoy protection, the11 February1945 escort attack, contemporary observations and later historical interpretation.\n\nAn original podcast episode from Liber Copia.",
@@ -68,5 +58,15 @@
   "seconds": 598,
   "guid": "libercopia-172952cea11b4edc",
   "date": "2026-11-12T18:00:00+00:00"
+ },
+ {
+  "id": "ttd_longform",
+  "title": "Target for Today: one 1944 bombing mission, start to finish",
+  "desc": "Target for Today is a 1944 Army Air Forces film, made by the First Motion Picture Unit, that follows one Eighth Air Force mission from start to finish: the weather room, the planning, the ground crews working through the night, the three o'clock wake-up, the briefings, the bomb run, and the count as the planes come home.\n\nEverything said here comes from the film's own narration and dialogue. Lines quoted from the film are read in a second voice.\n\nThe narration is a synthetic (AI-generated) voice. The footage is the original film, unaltered apart from scaling; the film's original soundtrack is not used.\n\nSource: Target for Today (1944), First Motion Picture Unit, Army Air Forces, U.S. War Department. Internet Archive, NTIS AVA11757VNB1. Public domain: a work of the U.S. Government, with no copyright notice on the film's cards.\n\n0:00 Ten or fifteen minutes over the target\n0:34 The day before\n2:07 The night shift\n3:07 Three o'clock\n4:16 The bomb run\n5:18 Counting them home\n6:42 Credits\n\nSource: Target for Today (1944), U.S. War Department, First Motion Picture Unit, Army Air Forces, via the Internet Archive (NTIS AVA11757VNB1). Public domain. The narration voice is synthetic; the archival film is unaltered except for selection and restoration.",
+  "file": "ttd-longform.mp3",
+  "bytes": 4927671,
+  "seconds": 411,
+  "guid": "libercopia-1f424f43f0f8fb4e",
+  "date": "2026-11-13T14:00:00+00:00"
  }
 ]

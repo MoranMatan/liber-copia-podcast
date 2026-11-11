@@ -13,6 +13,32 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Target for Today: one 1944 bombing mission, start to finish</title>
+      <description>Target for Today is a 1944 Army Air Forces film, made by the First Motion Picture Unit, that follows one Eighth Air Force mission from start to finish: the weather room, the planning, the ground crews working through the night, the three o'clock wake-up, the briefings, the bomb run, and the count as the planes come home.
+
+Everything said here comes from the film's own narration and dialogue. Lines quoted from the film are read in a second voice.
+
+The narration is a synthetic (AI-generated) voice. The footage is the original film, unaltered apart from scaling; the film's original soundtrack is not used.
+
+Source: Target for Today (1944), First Motion Picture Unit, Army Air Forces, U.S. War Department. Internet Archive, NTIS AVA11757VNB1. Public domain: a work of the U.S. Government, with no copyright notice on the film's cards.
+
+0:00 Ten or fifteen minutes over the target
+0:34 The day before
+2:07 The night shift
+3:07 Three o'clock
+4:16 The bomb run
+5:18 Counting them home
+6:42 Credits
+
+Source: Target for Today (1944), U.S. War Department, First Motion Picture Unit, Army Air Forces, via the Internet Archive (NTIS AVA11757VNB1). Public domain. The narration voice is synthetic; the archival film is unaltered except for selection and restoration.</description>
+      <enclosure url="https://moranmatan.github.io/liber-copia-podcast/audio/ttd-longform.mp3" length="4927671" type="audio/mpeg"/>
+      <guid isPermaLink="false">libercopia-1f424f43f0f8fb4e</guid>
+      <pubDate>Fri, 13 Nov 2026 14:00:00 +0000</pubDate>
+      <itunes:duration>411</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>The Machinery Behind Ike and Winston</title>
       <description>Today we are asking a question that a photograph cannot answer: how do allies turn agreement about an enemy into agreement about an operation? Churchill and Eisenhower offer a useful case because their names invite a personal explanation. One was an experienced political leader, the other an American officer who became a coalition commander. It is tempting to say that friendship connected them and victory followed. But that leaves out the difficult middle. Someone still had to decide where forces would go, what resources they would receive, and whose decisions would be binding. Our subject is that middle: the machinery that allowed a partnership to survive disagreement.
 
@@ -81,16 +107,6 @@ An original podcast episode from Liber Copia.</description>
       <guid isPermaLink="false">libercopia-9575e52bffaaad91</guid>
       <pubDate>Tue, 10 Nov 2026 10:00:00 +0000</pubDate>
       <itunes:duration>595</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Target for Today: one 1944 bombing mission, start to finish</title>
-      <description>Audio of the Liber Copia video on Target for Today, a 1944 Army Air Forces film by the First Motion Picture Unit that follows one Eighth Air Force mission from the weather room to the count of planes coming home. Lines quoted from the film are read in a second voice. Narration is a synthetic voice. Public domain.</description>
-      <enclosure url="https://moranmatan.github.io/liber-copia-podcast/audio/ttd-longform.mp3" length="4927671" type="audio/mpeg"/>
-      <guid isPermaLink="false">libercopia-1f424f43f0f8fb4e</guid>
-      <pubDate>Mon, 12 Oct 2026 21:00:00 +0000</pubDate>
-      <itunes:duration>411</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
