@@ -13,6 +13,28 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Timbuktu and the Networks That Carried Knowledge</title>
+      <description>Timbuktu can sound like a synonym for isolation. Its history makes more sense when we reverse that assumption. The city became important because people and goods could reach it. It stood near the meeting of Saharan travel and the Niger River's commercial world. This episode follows the relationship between those transport networks and a written intellectual culture. We will not treat a famous name as a substitute for geography, or a manuscript as proof that everyone experienced the same education. Instead, we will ask how books moved, why people copied them, and what surviving collections allow historians to establish. Our sources include the Library of Congress exhibition of manuscripts from Mali and the University of Cape Town's Tombouctou Manuscripts Project. These are evidence for an original historical discussion, not a reading of a contemporary book.
+
+Original audio-only analytical episode for the Liber Copia podcast. Independently researched; no reading, close adaptation or cover art from any published book.
+
+Sources:
+Library of Congress: Timbuktu, An Islamic Cultural Center: https://www.loc.gov/collections/islamic-manuscripts-from-mali/articles-and-essays/timbuktu-an-islamic-cultural-center/
+Library of Congress: Timbuktu in Space and Time, Maps: https://www.loc.gov/collections/islamic-manuscripts-from-mali/articles-and-essays/timbuktu-in-space-and-time-maps/
+University of Cape Town: Timbuktu History, Tombouctou Manuscripts Project: https://tombouctoumanuscripts.uct.ac.za/overview/timbuktus-history
+Library of Congress: Ancient Manuscripts from the Desert Libraries of Timbuktu, Exhibition: https://www.loc.gov/exhibits/mali/mali-exhibit.html
+
+American English synthetic narration: Piper en_US-ljspeech-medium; public-domain LJ Speech dataset, Keith Ito and Linda Johnson (2017). Synthetic narrator; no historical voice is imitated. Written copy uses British English. Voice only; no music or ambience.
+
+Keywords: African history, Kush, Nubia, Meroe, Timbuktu, manuscripts, Nile, archaeology</description>
+      <enclosure url="https://moranmatan.github.io/liber-copia-podcast/audio/chatgbt-pod-timbuktu-and-the-networks-that-carried-knowl.mp3" length="12001004" type="audio/mpeg"/>
+      <guid isPermaLink="false">libercopia-11ff0bc81db89fbb</guid>
+      <pubDate>Tue, 17 Nov 2026 16:00:00 +0000</pubDate>
+      <itunes:duration>600</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Nagasaki, 9 August 1945: What the US Strategic Bombing Survey Found</title>
       <description>On 9 August 1945 the second atomic bomb used in war exploded over Nagasaki. Its heat and blast were more intense than Hiroshima's, yet the area destroyed was smaller. This episode retells, in our own words, what the US Strategic Bombing Survey reported about the Urakami Valley, the hills that limited the damage, the casualty estimates and the tunnel shelters. Sources: United States Strategic Bombing Survey, Summary Report (Pacific War), 1946, and Report 93, Effects of the Atomic Bomb on Nagasaki, Japan, Vol. I (1947), US government works in the public domain. The narration voice is AI-generated. An original podcast episode from Liber Copia.</description>
       <enclosure url="https://moranmatan.github.io/liber-copia-podcast/audio/nagasaki-ussbs-1946.mp3" length="4370445" type="audio/mpeg"/>

@@ -188,5 +188,15 @@
   "seconds": 600,
   "guid": "libercopia-a08903eaf4fc2df6",
   "date": "2026-11-16T18:00:00+00:00"
+ },
+ {
+  "id": "chatgbt_pod_timbuktu_and_the_networks_that_carried_knowl",
+  "title": "Timbuktu and the Networks That Carried Knowledge",
+  "desc": "Timbuktu can sound like a synonym for isolation. Its history makes more sense when we reverse that assumption. The city became important because people and goods could reach it. It stood near the meeting of Saharan travel and the Niger River's commercial world. This episode follows the relationship between those transport networks and a written intellectual culture. We will not treat a famous name as a substitute for geography, or a manuscript as proof that everyone experienced the same education. Instead, we will ask how books moved, why people copied them, and what surviving collections allow historians to establish. Our sources include the Library of Congress exhibition of manuscripts from Mali and the University of Cape Town's Tombouctou Manuscripts Project. These are evidence for an original historical discussion, not a reading of a contemporary book.\n\nOriginal audio-only analytical episode for the Liber Copia podcast. Independently researched; no reading, close adaptation or cover art from any published book.\n\nSources:\nLibrary of Congress: Timbuktu, An Islamic Cultural Center: https://www.loc.gov/collections/islamic-manuscripts-from-mali/articles-and-essays/timbuktu-an-islamic-cultural-center/\nLibrary of Congress: Timbuktu in Space and Time, Maps: https://www.loc.gov/collections/islamic-manuscripts-from-mali/articles-and-essays/timbuktu-in-space-and-time-maps/\nUniversity of Cape Town: Timbuktu History, Tombouctou Manuscripts Project: https://tombouctoumanuscripts.uct.ac.za/overview/timbuktus-history\nLibrary of Congress: Ancient Manuscripts from the Desert Libraries of Timbuktu, Exhibition: https://www.loc.gov/exhibits/mali/mali-exhibit.html\n\nAmerican English synthetic narration: Piper en_US-ljspeech-medium; public-domain LJ Speech dataset, Keith Ito and Linda Johnson (2017). Synthetic narrator; no historical voice is imitated. Written copy uses British English. Voice only; no music or ambience.\n\nKeywords: African history, Kush, Nubia, Meroe, Timbuktu, manuscripts, Nile, archaeology",
+  "file": "chatgbt-pod-timbuktu-and-the-networks-that-carried-knowl.mp3",
+  "bytes": 12001004,
+  "seconds": 600,
+  "guid": "libercopia-11ff0bc81db89fbb",
+  "date": "2026-11-17T16:00:00+00:00"
  }
 ]
