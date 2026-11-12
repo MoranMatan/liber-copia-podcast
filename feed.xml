@@ -45,6 +45,29 @@ An original podcast episode from Liber Copia.</description>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
+      <title>When Reconstruction Needed Prosecutors</title>
+      <description>Winning a war and enforcing its consequences are different operations. After the American Civil War, the question was no longer simply whether slavery would survive as a legal institution. The country also had to decide whether people formerly held in slavery could exercise citizenship without being attacked. A constitutional amendment could prohibit discrimination. It could not, by itself, place a witness in a courtroom or protect a person approaching a polling place. This episode examines the distance between those two things: a national promise and an enforceable right. Our subject is the creation of the Department of Justice in eighteen seventy and the campaign against the first Ku Klux Klan. We are using official historical records, rather than reading or adapting a modern book. The analytical question is practical. What happens when a government declares a right but must still build the organization that can defend it?
+
+Original audio-only analytical episode for the Liber Copia podcast. Independently researched; no reading, close adaptation or cover art from any published book.
+
+Sources:
+National Archives: Department of Justice Records, Record Group 60: https://www.archives.gov/research/investigations/doj
+US Senate Historical Office: Enforcement Acts of 1870 and 1871: https://www.senate.gov/artandhistory/history/common/generic/EnforcementActs.htm
+Federal Judicial Center: Department of Justice: https://www.fjc.gov/history/timeline/department-justice
+US Department of Justice: Amos Tappan Akerman historical biography: https://www.justice.gov/ag/bio/akerman-amos-tappan
+National Park Service: Protecting Life and Property: https://home.nps.gov/articles/000/protecting-life-and-property-passing-the-ku-klux-klan-act.htm
+
+American English synthetic narration: Piper en_US-ljspeech-medium; public-domain LJ Speech dataset, Keith Ito and Linda Johnson (2017). Synthetic narrator; no historical voice is imitated. Written copy uses British English. Voice only; no music or ambience.
+
+Keywords: Reconstruction, Department of Justice, Ulysses S Grant, Amos Akerman, Enforcement Acts, voting rights, American history</description>
+      <enclosure url="https://moranmatan.github.io/liber-copia-podcast/audio/chatgbt-pod-when-reconstruction-needed-prosecutors.mp3" length="12001004" type="audio/mpeg"/>
+      <guid isPermaLink="false">libercopia-f53014b21b247951</guid>
+      <pubDate>Sun, 15 Nov 2026 16:00:00 +0000</pubDate>
+      <itunes:duration>600</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Special Forces 1961: Fort Bragg to a bridge in the Alps</title>
       <description>The Big Picture was the U.S. Army's official report for the armed forces and the American people. This 1961 issue, introduced by Henry Fonda, follows the Special Forces from the Special Warfare Center at Fort Bragg to a training mission in the Alps: a parachute drop, a partisan camp, and a railway bridge with fifteen minutes left on the schedule.
 
