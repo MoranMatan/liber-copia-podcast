@@ -138,5 +138,15 @@
   "seconds": 399,
   "guid": "libercopia-f660e363bfa70373",
   "date": "2026-11-16T14:00:00+00:00"
+ },
+ {
+  "id": "challenger_rogers_commission",
+  "title": "Challenger: The Decision to Launch, from the Rogers Commission Report",
+  "desc": "On January 28, 1986 it was 36 degrees Fahrenheit at launch, 15 degrees colder than any shuttle launch before it. The night before, engineers had tried to stop it. An original retelling of the decision to launch Challenger, built on the official report of the Rogers Commission (a U.S. government document in the public domain), with quoted lines marked. The narration voice is AI-generated.\n\nAn original podcast episode from Liber Copia.",
+  "file": "challenger-rogers-commission.mp3",
+  "bytes": 3467277,
+  "seconds": 289,
+  "guid": "libercopia-dac6b67a99e777a6",
+  "date": "2026-11-16T16:00:00+00:00"
  }
 ]
