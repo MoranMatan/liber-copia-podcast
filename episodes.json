@@ -168,5 +168,15 @@
   "seconds": 600,
   "guid": "libercopia-f53014b21b247951",
   "date": "2026-11-15T16:00:00+00:00"
+ },
+ {
+  "id": "chatgbt_pod_how_to_read_a_government_campaign_against_te",
+  "title": "How to Read a Government Campaign Against Terror",
+  "desc": "An archive can show that a government received a warning. It does not automatically show that the government understood it, acted on it, or achieved its objective. We are examining federal action against political intimidation during Reconstruction, with particular attention to the records created by the young Department of Justice. This is a different angle from a chronological account of the department's foundation. The subject here is evidence. How do we reconstruct a campaign when much of what survives consists of letters, reports, statutes, and institutional summaries? The danger is straightforward. A compelling document can make us feel close to an event while leaving the decisive question unanswered. We need to distinguish what a document says from what its existence proves.\n\nOriginal audio-only analytical episode for the Liber Copia podcast. Independently researched; no reading, close adaptation or cover art from any published book.\n\nSources:\nNational Archives: Department of Justice Records, Record Group 60: https://www.archives.gov/research/investigations/doj\nUS Senate Historical Office: Enforcement Acts of 1870 and 1871: https://www.senate.gov/artandhistory/history/common/generic/EnforcementActs.htm\nNational Park Service: Protecting Life and Property: https://home.nps.gov/articles/000/protecting-life-and-property-passing-the-ku-klux-klan-act.htm\n\nAmerican English synthetic narration: Piper en_US-ljspeech-medium; public-domain LJ Speech dataset, Keith Ito and Linda Johnson (2017). Synthetic narrator; no historical voice is imitated. Written copy uses British English. Voice only; no music or ambience.\n\nKeywords: Reconstruction, Department of Justice, Ulysses S Grant, Amos Akerman, Enforcement Acts, voting rights, American history",
+  "file": "chatgbt-pod-how-to-read-a-government-campaign-against-te.mp3",
+  "bytes": 11897805,
+  "seconds": 595,
+  "guid": "libercopia-47dbddc3cf079a71",
+  "date": "2026-11-15T18:00:00+00:00"
  }
 ]
