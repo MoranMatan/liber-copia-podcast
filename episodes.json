@@ -178,5 +178,15 @@
   "seconds": 595,
   "guid": "libercopia-47dbddc3cf079a71",
   "date": "2026-11-15T18:00:00+00:00"
+ },
+ {
+  "id": "chatgbt_pod_yellowstone_and_the_cost_of_changing_a_syste",
+  "title": "Yellowstone and the Cost of Changing a System",
+  "desc": "At Yellowstone, people once gathered to watch bears feeding on garbage. The National Park Service's history describes nightly crowds at park dumps and visitors feeding bears beside roads. This was not simply wildlife appearing in a human landscape. Human practices helped create the encounter. Food waste made some places rewarding for bears to visit, while visitors treated proximity as part of the attraction. This episode examines the historical change in that system. It is about environmental administration and unintended consequences, rather than battlefield command. The connection to our usual subjects is the problem of changing behaviour when institutions have spent years rewarding it. We will follow the official record from early feeding practices through the management changes of nineteen sixty and nineteen seventy, then ask how results should be assessed.\n\nOriginal audio-only analytical episode for the Liber Copia podcast. Independently researched; no reading, close adaptation or cover art from any published book.\n\nSources:\nNational Park Service: History of Bear Management, Yellowstone: https://www.nps.gov/yell/learn/historyculture/bear-management.htm\nNational Park Service: Bear Management, Yellowstone: https://www.nps.gov/yell/learn/management/bear.htm\n\nAmerican English synthetic narration: Piper en_US-ljspeech-medium; public-domain LJ Speech dataset, Keith Ito and Linda Johnson (2017). Synthetic narrator; no historical voice is imitated. Written copy uses British English. Voice only; no music or ambience.\n\nKeywords: American history, Yellowstone, bear management, conservation history, black bears, grizzly bears, National Park Service",
+  "file": "chatgbt-pod-yellowstone-and-the-cost-of-changing-a-syste.mp3",
+  "bytes": 12001004,
+  "seconds": 600,
+  "guid": "libercopia-a08903eaf4fc2df6",
+  "date": "2026-11-16T18:00:00+00:00"
  }
 ]
