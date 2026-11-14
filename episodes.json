@@ -198,5 +198,15 @@
   "seconds": 600,
   "guid": "libercopia-11ff0bc81db89fbb",
   "date": "2026-11-17T16:00:00+00:00"
+ },
+ {
+  "id": "chatgbt_pod_independence_has_an_administrative_cost",
+  "title": "Independence Has an Administrative Cost",
+  "desc": "Imagine trying to understand an institution by reading only its most famous decisions. You would know what it said at moments of public importance. You might know very little about how it managed to function on an ordinary morning. This episode begins with that gap. The federal judiciary was a separate branch of American government, yet its financial administration passed through executive departments for a century and a half. The relationship raises an analytical question: what does independence require beyond the legal power to make a decision? We will follow responsibility for court administration from the Treasury to the creation of a judicial administrative office in nineteen thirty-nine. We are not treating every budget dispute as an attempt to dictate a verdict. We are asking how institutions depend on services, information, and resources, and how those dependencies can become a reason for reform.\n\nOriginal audio-only analytical episode for the Liber Copia podcast. Independently researched; no reading, close adaptation or cover art from any published book.\n\nSources:\nFederal Judicial Center: The Executive Role in Judicial Administration: https://www.fjc.gov/history/administration/executive-role-judicial-administration\nNational Archives: Department of Justice Records, Record Group 60: https://www.archives.gov/research/investigations/doj\nFederal Judicial Center: Landmark Legislation, Administrative Office of the US Courts: https://www.fjc.gov/history/legislation/landmark-legislation-administrative-office-us-courts\n\nAmerican English synthetic narration: Piper en_US-ljspeech-medium; public-domain LJ Speech dataset, Keith Ito and Linda Johnson (2017). Synthetic narrator; no historical voice is imitated. Written copy uses British English. Voice only; no music or ambience.\nVisual credits and public-domain/CC0 evidence: see the shared visual-rights ledger.\n\nKeywords: American history, federal courts, judicial independence, Judiciary Act, Treasury Department, Justice Department, Charles Evans Hughes, Administrative Office, 1939",
+  "file": "chatgbt-pod-independence-has-an-administrative-cost.mp3",
+  "bytes": 12001004,
+  "seconds": 600,
+  "guid": "libercopia-cd99d62d8c73e080",
+  "date": "2026-11-17T18:00:00+00:00"
  }
 ]
