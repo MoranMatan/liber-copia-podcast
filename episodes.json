@@ -228,5 +228,15 @@
   "seconds": 600,
   "guid": "libercopia-b6398971ab5c7b1a",
   "date": "2026-11-18T16:00:00+00:00"
+ },
+ {
+  "id": "chatgbt_pod_how_a_bear_hunt_became_a_teddy_bear",
+  "title": "How a Bear Hunt Became a Teddy Bear",
+  "desc": "A president refused to shoot a bear, and a beloved toy followed. That is the outline many people remember. It leaves out an uncomfortable detail: the real bear did not survive the hunt. The difference matters because this is a story about how an event became an image, and how the image acquired a life of its own. In this episode, we follow the nineteen oh two Mississippi hunt associated with Theodore Roosevelt, a newspaper cartoon, and an early teddy bear preserved by the Smithsonian. We are using the National Park Service and museum records, not reading a forthcoming book. Our subject is the construction of a public story. The question is how a gesture during a hunt could become a symbol that looked increasingly different from the animal at its centre.\n\nOriginal audio-only analytical episode for the Liber Copia podcast. Independently researched; no reading, close adaptation or cover art from any published book.\n\nSources:\nNational Park Service: Story of the Teddy Bear: https://www.nps.gov/thrb/learn/historyculture/storyofteddybear.htm\nSmithsonian National Museum of American History: Teddy Bear fact sheet: https://americanhistory.si.edu/press/fact-sheets/teddy-bear\nSmithsonian Archives of American Art: Roosevelt letter to Clifford Berryman, 29 December 1902: https://www.aaa.si.edu/collections/items/detail/theodore-roosevelt-washington-dc-letter-to-clifford-berryman-washington-dc-581\nSmithsonian: Teddy bear, NMAH object 491375: https://www.si.edu/object/teddy-bear%3Anmah_491375\nMargarete Steiff GmbH: Iconic Teddy Bears: https://corporate.steiff.com/en/steiff-teddy/iconic-teddy-bears/\nSmithsonian Magazine: The History of the Teddy Bear: https://www.smithsonianmag.com/history/history-teddy-bear-once-seen-dangerous-influence-young-children-180983234/\n\nAmerican English synthetic narration: Piper en_US-ljspeech-medium; public-domain LJ Speech dataset, Keith Ito and Linda Johnson (2017). Synthetic narrator; no historical voice is imitated. Written copy uses British English. Voice only; no music or ambience.\nVisual credits and public-domain/CC0 evidence: see the shared visual-rights ledger.\n\nKeywords: American history, Theodore Roosevelt, teddy bear history, Clifford Berryman, Morris Michtom, Rose Michtom, Steiff, Smithsonian, museum history",
+  "file": "chatgbt-pod-how-a-bear-hunt-became-a-teddy-bear.mp3",
+  "bytes": 12001004,
+  "seconds": 600,
+  "guid": "libercopia-8504cd0a1f24ea32",
+  "date": "2026-11-18T18:00:00+00:00"
  }
 ]
