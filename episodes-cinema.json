@@ -28,5 +28,15 @@
   "seconds": 600,
   "guid": "libercopia-1a44e42582ecbbd5",
   "date": "2026-11-15T16:00:00+00:00"
+ },
+ {
+  "id": "chatgbt_pod_the_scientists_who_had_to_count_yellowstone_",
+  "title": "The Scientists Who Had to Count Yellowstone Grizzlies",
+  "desc": "A conservation decision can rest on an assumption that has not yet been measured well enough. The history of Yellowstone's grizzly research makes that problem concrete. During a controversial change in bear management, officials needed to know whether the population could withstand the deaths being recorded. The answer required more than the number of bears visible near people. In nineteen seventy-three, the Department of the Interior formed the Interagency Grizzly Bear Study Team. This episode follows why that research organisation mattered. We are not giving present-day wildlife advice or reporting a current population estimate. We are examining a historical relationship between policy, uncertainty, and evidence. The central question is how a government learns whether the living population behind a public controversy is actually secure.\n\nOriginal audio-only analytical episode for the Liber Copia podcast. Independently researched; no reading, close adaptation or cover art from any published book.\n\nSources:\nUS Geological Survey: History of the Interagency Grizzly Bear Study Team: https://www.usgs.gov/centers/norock/science/history-igbst\nNational Park Service: Forty Years of Grizzly Bear Recovery: https://www.nps.gov/yell/learn/forty-years-of-grizzly-bear-recovery.htm\nNational Park Service: History of Bear Management, Yellowstone: https://www.nps.gov/yell/learn/historyculture/bear-management.htm\n\nAmerican English synthetic narration: Piper en_US-ljspeech-medium; public-domain LJ Speech dataset, Keith Ito and Linda Johnson (2017). Synthetic narrator; no historical voice is imitated. Written copy uses British English. Voice only; no music or ambience.\nVisual credits and public-domain/CC0 evidence: see the shared visual-rights ledger.\n\nKeywords: American history, grizzly bears, California, Yellowstone, National Park Service, conservation history, animal emblems, ecological research",
+  "file": "chatgbt-pod-the-scientists-who-had-to-count-yellowstone-.mp3",
+  "bytes": 12001004,
+  "seconds": 600,
+  "guid": "libercopia-575ab9958d7c5bf4",
+  "date": "2026-11-15T18:00:00+00:00"
  }
 ]
