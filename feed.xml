@@ -13,6 +13,29 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Meroe and the Problem of Dating an Industry</title>
+      <description>An ancient slag heap can look like a direct answer to a historical question. Iron was made here. The waste is still visible. Surely its size tells us how important the industry was. The first statement may be well supported while the next questions remain open. When was the waste produced? Did it accumulate steadily or in bursts? Was it all deposited where the production happened? This episode examines how archaeological research at Meroe turns industrial remains into a chronology. We are using published research on Kushite iron production as evidence, not reading a modern history book. The analytical issue is how to move from a striking landscape to a defensible claim about activity across time. A large quantity of surviving material is valuable. It still has to be investigated before it becomes a calendar, a production estimate, or an explanation of political power.
+
+Original audio-only analytical episode for the Liber Copia podcast. Independently researched; no reading, close adaptation or cover art from any published book.
+
+Sources:
+Cambridge repository: A New Radiocarbon Chronology for Ancient Iron Production in the Meroe Region: https://www.repository.cam.ac.uk/items/09f9aa6a-6557-4fde-a0c8-94241302c547
+Carey, Stremke and Humphris: The ironworking remains in the royal city of Meroe: https://www.repository.cam.ac.uk/items/1a753dc4-fe78-4645-8d26-c39de525eb9f
+Cambridge repository: Iron Smelting in Sudan, Experimental Archaeology at Meroe: https://www.repository.cam.ac.uk/items/ee03ff66-1277-4668-9830-43095946d816
+Jane Humphris: Iron Production at Meroe, Oxford Handbook: https://academic.oup.com/edited-volume/35472/chapter-abstract/303804698
+
+American English synthetic narration: Piper en_US-ljspeech-medium; public-domain LJ Speech dataset, Keith Ito and Linda Johnson (2017). Synthetic narrator; no historical voice is imitated. Written copy uses British English. Voice only; no music or ambience.
+Visual credits and public-domain/CC0 evidence: see the shared visual-rights ledger.
+
+Keywords: African history, Kush, Nubia, Meroe, archaeology, radiocarbon dating, iron production, material culture, ancient trade</description>
+      <enclosure url="https://moranmatan.github.io/liber-copia-podcast/audio/chatgbt-pod-meroe-and-the-problem-of-dating-an-industry.mp3" length="12001004" type="audio/mpeg"/>
+      <guid isPermaLink="false">libercopia-97b046ce35408b6c</guid>
+      <pubDate>Wed, 18 Nov 2026 14:00:00 +0000</pubDate>
+      <itunes:duration>600</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Independence Has an Administrative Cost</title>
       <description>Imagine trying to understand an institution by reading only its most famous decisions. You would know what it said at moments of public importance. You might know very little about how it managed to function on an ordinary morning. This episode begins with that gap. The federal judiciary was a separate branch of American government, yet its financial administration passed through executive departments for a century and a half. The relationship raises an analytical question: what does independence require beyond the legal power to make a decision? We will follow responsibility for court administration from the Treasury to the creation of a judicial administrative office in nineteen thirty-nine. We are not treating every budget dispute as an attempt to dictate a verdict. We are asking how institutions depend on services, information, and resources, and how those dependencies can become a reason for reform.
 
