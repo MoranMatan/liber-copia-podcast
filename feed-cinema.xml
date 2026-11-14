@@ -1,17 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
-    <title>The Darker Reel: Dark History, Propaganda and Prejudice from Government Films</title>
+    <title>The Darker Reel: History, Propaganda and Untold Stories</title>
     <link>https://moranmatan.github.io/liber-copia-podcast/</link>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://moranmatan.github.io/liber-copia-podcast/feed-cinema.xml" rel="self" type="application/rss+xml"/>
     <language>en</language>
-    <description>The darker side of the twentieth century as the government's own films told it: prejudice and persecution, propaganda, fear, crime and the machinery of control. Each episode narrates a public-domain U.S. government film against its own words, with quoted lines read in a second voice, and keeps the film's framing: who is speaking, who the film is about, and when. Episodes come from Cinema of the Underground. The narration voice is synthetic; the archival film is unaltered. Keywords: world war 2 history, propaganda, psychological warfare, prejudice, history of war, war history, government films, archival film.</description>
+    <description>History from the darker, less told side: wars and disasters, intelligence and deception, propaganda, prejudice and the machinery of control. Each episode is built on public-domain sources (official reports, government records and archival films) and told in plain words, with quoted lines read in a second voice. Episodes come from Cinema of the Underground. The narration voice is synthetic; the sources are cited in each description. Keywords: history podcast, world war 2 history, propaganda, military history, disasters, intelligence, war history, archival film.</description>
     <itunes:author>Cinema of the Underground</itunes:author>
     <itunes:owner><itunes:name>Cinema of the Underground</itunes:name><itunes:email>moran@printenberg.com</itunes:email></itunes:owner>
     <itunes:image href="https://moranmatan.github.io/liber-copia-podcast/cover-cinema.jpg"/>
     <itunes:category text="History"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>When the Government Had Too Many Legal Voices</title>
+      <description>Suppose two offices speak for the same government but approach a legal question differently. Both may have expertise. Both may believe their position protects the public business entrusted to them. Yet a court still needs to know what the United States is asking it to do. This episode examines the historical problem behind that situation. Our focus is not the financial administration of courts, which belongs to a different institutional history. It is the coordination of government litigation and the emergence of the solicitor general. The analytical question is how a government transforms several legal perspectives into a position that can be presented responsibly. We will distinguish the creation of an office from the development of its authority, and an official tradition from proof that every individual decision lived up to it.
+
+Original audio-only analytical episode for the Liber Copia podcast. Independently researched; no reading, close adaptation or cover art from any published book.
+
+Sources:
+US Department of Justice: The Solicitor General in Historical Context, Seth Waxman, 1998: https://www.justice.gov/osg/solicitor-general-historical-context
+Federal Judicial Center: Executive Legal Officers: https://www.fjc.gov/history/administration/executive-legal-officers
+US Department of Justice: Benjamin H. Bristow biography: https://www.justice.gov/osg/bio/benjamin-h-bristow
+National Archives: Department of Justice Records, Record Group 60: https://www.archives.gov/research/investigations/doj
+
+American English synthetic narration: Piper en_US-ljspeech-medium; public-domain LJ Speech dataset, Keith Ito and Linda Johnson (2017). Synthetic narrator; no historical voice is imitated. Written copy uses British English. Voice only; no music or ambience.
+Visual credits and public-domain/CC0 evidence: see the shared visual-rights ledger.
+
+Keywords: American history, solicitor general, Benjamin Bristow, Edmund Randolph, Supreme Court, 1870, government litigation, legal history</description>
+      <enclosure url="https://moranmatan.github.io/liber-copia-podcast/audio/chatgbt-pod-when-the-government-had-too-many-legal-voice.mp3" length="12001004" type="audio/mpeg"/>
+      <guid isPermaLink="false">libercopia-2b7ef965219001ee</guid>
+      <pubDate>Sun, 15 Nov 2026 14:00:00 +0000</pubDate>
+      <itunes:duration>600</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Don't Be a Sucker (1947): how prejudice divided Germany</title>
       <description>Don't Be a Sucker is a 1947 U.S. War Department film. It opens on an American street, where a speaker selling a pamphlet turns a crowd against its neighbours, then follows an older man's account of Berlin in 1932: how the Nazis used prejudice as a weapon to divide Germany, what they promised five young men in one crowd, and what those promises came to. Everything said here comes from the film's own narration and dialogue; lines quoted from the film are read in a second voice. The narration voice is synthetic; the archival film is unaltered. Source: U.S. War Department, Educational Film E.F. 6, public domain.</description>

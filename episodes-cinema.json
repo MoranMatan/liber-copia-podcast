@@ -8,5 +8,15 @@
   "seconds": 426,
   "guid": "libercopia-f37f81dcf8975ccc",
   "date": "2026-10-13T00:00:00+00:00"
+ },
+ {
+  "id": "chatgbt_pod_when_the_government_had_too_many_legal_voice",
+  "title": "When the Government Had Too Many Legal Voices",
+  "desc": "Suppose two offices speak for the same government but approach a legal question differently. Both may have expertise. Both may believe their position protects the public business entrusted to them. Yet a court still needs to know what the United States is asking it to do. This episode examines the historical problem behind that situation. Our focus is not the financial administration of courts, which belongs to a different institutional history. It is the coordination of government litigation and the emergence of the solicitor general. The analytical question is how a government transforms several legal perspectives into a position that can be presented responsibly. We will distinguish the creation of an office from the development of its authority, and an official tradition from proof that every individual decision lived up to it.\n\nOriginal audio-only analytical episode for the Liber Copia podcast. Independently researched; no reading, close adaptation or cover art from any published book.\n\nSources:\nUS Department of Justice: The Solicitor General in Historical Context, Seth Waxman, 1998: https://www.justice.gov/osg/solicitor-general-historical-context\nFederal Judicial Center: Executive Legal Officers: https://www.fjc.gov/history/administration/executive-legal-officers\nUS Department of Justice: Benjamin H. Bristow biography: https://www.justice.gov/osg/bio/benjamin-h-bristow\nNational Archives: Department of Justice Records, Record Group 60: https://www.archives.gov/research/investigations/doj\n\nAmerican English synthetic narration: Piper en_US-ljspeech-medium; public-domain LJ Speech dataset, Keith Ito and Linda Johnson (2017). Synthetic narrator; no historical voice is imitated. Written copy uses British English. Voice only; no music or ambience.\nVisual credits and public-domain/CC0 evidence: see the shared visual-rights ledger.\n\nKeywords: American history, solicitor general, Benjamin Bristow, Edmund Randolph, Supreme Court, 1870, government litigation, legal history",
+  "file": "chatgbt-pod-when-the-government-had-too-many-legal-voice.mp3",
+  "bytes": 12001004,
+  "seconds": 600,
+  "guid": "libercopia-2b7ef965219001ee",
+  "date": "2026-11-15T14:00:00+00:00"
  }
 ]
