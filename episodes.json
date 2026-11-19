@@ -248,5 +248,15 @@
   "seconds": 499,
   "guid": "libercopia-3b127c95a9f72d35",
   "date": "2026-11-20T14:00:00+00:00"
+ },
+ {
+  "id": "ussc_drug_cases_fentanyl_mandatory_minimums",
+  "title": "Federal Drug Cases in America: Fentanyl, Meth and Mandatory Minimums",
+  "desc": "Who is sentenced for drug crimes in U.S. federal court, how long do they get, and what is changing? Using the U.S. Sentencing Commission's Quick Facts sheets for fiscal year 2025: 16,144 drug trafficking cases, the rise of fentanyl (up 135% since FY2021), mandatory minimums and who gets relief from them, and a comparison with fraud and money laundering cases.\n\nFederal courts only; not all U.S. crime. Figures are as published by the Commission.\n\nSources (United States Sentencing Commission, ussc.gov):\nhttps://www.ussc.gov/research/quick-facts/drug-trafficking\nhttps://www.ussc.gov/research/quick-facts/methamphetamine-trafficking\nhttps://www.ussc.gov/research/quick-facts/fentanyl-analogue-trafficking\nhttps://www.ussc.gov/research/quick-facts/mandatory-minimum-penalties\nhttps://www.ussc.gov/research/quick-facts/theft-property-destruction-fraud\nhttps://www.ussc.gov/research/quick-facts/health-care-fraud\nhttps://www.ussc.gov/research/quick-facts/money-laundering\n\nThis episode was made by Liber Copia from the Commission's public figures. It was not produced or endorsed by the Commission. Narration is a synthetic voice.",
+  "file": "ussc-drug-cases-fentanyl-mandatory-minimums.mp3",
+  "bytes": 3861987,
+  "seconds": 322,
+  "guid": "libercopia-e3fca6b48c762f83",
+  "date": "2026-11-21T14:00:00+00:00"
  }
 ]
