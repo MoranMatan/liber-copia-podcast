@@ -258,5 +258,15 @@
   "seconds": 322,
   "guid": "libercopia-e3fca6b48c762f83",
   "date": "2026-11-21T14:00:00+00:00"
+ },
+ {
+  "id": "ussc_national_defense_cases",
+  "title": "Federal National Defense Cases: 517 Cases, Up 132 Percent",
+  "desc": "National defense offenses in U.S. federal court, fiscal year 2025: 517 cases (up 132% since FY2021), who they involve, sentences from about two years for arms-export cases to more than sixteen years where the terrorism adjustment applied, and why the average sentence fell from 40 to 21 months while cases more than doubled. Using only the U.S. Sentencing Commission's published Quick Facts sheet.\n\nFederal courts only; figures as published by the Commission. The episode notes where the Commission's sheet gives context and does not claim causes.\n\nSource (United States Sentencing Commission, ussc.gov):\nhttps://www.ussc.gov/research/quick-facts/national-defense\n\nThis episode was made by Liber Copia from the Commission's public figures. It was not produced or endorsed by the Commission. Narration is a synthetic voice.",
+  "file": "ussc-national-defense-cases.mp3",
+  "bytes": 2560149,
+  "seconds": 213,
+  "guid": "libercopia-6523e9c7744bc88a",
+  "date": "2026-11-23T14:00:00+00:00"
  }
 ]
